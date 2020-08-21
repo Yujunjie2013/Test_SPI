@@ -8,6 +8,7 @@ good_printer和bad_printer均依赖spi_interface模块并实现IPriter接口
 
 
 ##比如:
+
 good_printer的实现类是 `org.test.junjie.good.GoodPrinter`
 
 bad_printer的实现类是 ` org.test.junjie.BadPrinter`
