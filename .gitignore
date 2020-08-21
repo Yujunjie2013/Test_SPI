@@ -1,0 +1,5 @@
+# Project exclude paths
+/bad_printer/target/
+/good_printer/target/
+/invoker/target/
+/spi_interface/target/
